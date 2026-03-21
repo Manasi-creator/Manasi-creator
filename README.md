@@ -1,4 +1,4 @@
-# Hi there, I'm Manasi! 👋 <img src="manasi_photo.jpeg" align="right" width="200" style="border-radius: 100%;">
+# Hi there, I'm Manasi! 👋 
 
 ### 🚀 SY B.Tech CSE Student @ VIT Pune
 I am a passionate competitive programmer focused on building scalable, useful web applications and mastering Data Structures & Algorithms.
