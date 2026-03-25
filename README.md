@@ -46,7 +46,7 @@ I am a passionate competitive programmer focused on building scalable, useful we
 ---
 
 ### 🏆 Achievements
-- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈
+- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈 - Secured Runner-up at PICT’s Magnate '26 Ideathon by developing an IoT-based tremor monitoring system. Integrated ESP32 and MPU6050 sensors to provide real-time healthcare alerts for Parkinson’s patients.
 
 ---
 
