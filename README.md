@@ -58,4 +58,8 @@ I am a passionate competitive programmer focused on building scalable, useful we
 
 ### 📊 GitHub Stats
 ![Manasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manasi-creator&show_icons=true&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Manasi-creator&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Manasi's Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi-creator&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi-creator&layout=compact&theme=radical)
