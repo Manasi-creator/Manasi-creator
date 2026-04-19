@@ -16,14 +16,24 @@ I am a passionate competitive programmer focused on building scalable, useful we
 ### 📊 GitHub Intelligence
 Tracking my consistency and growth across repositories.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manasi-creator&theme=radical&hide_border=true)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manasi-creator&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Manasi's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi-creator&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manasi-creator&theme=radical)
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasi-creator&theme=radical&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Manasi-creator&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi-creator&layout=compact&theme=radical&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manasi-creator&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
