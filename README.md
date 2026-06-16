@@ -1,7 +1,12 @@
-# Hi there, I'm Manasi! 👋 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20Competing%20%7C%20Learning&descAlignY=65&descSize=18" width="100%"/>
 
-### 🚀 SY B.Tech CSE Student @ VIT Pune
-I am a passionate competitive programmer focused on building scalable, useful web applications and mastering Data Structures & Algorithms.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Manasi!+%F0%9F%91%8B;SY+B.Tech+CSE+%40+VIT+Pune;Competitive+Programmer+%7C+Full+Stack+Dev" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Manasi-creator&color=blueviolet&style=flat" alt="Profile views"/>
+
+</div>
 
 ---
 
@@ -13,8 +18,43 @@ I am a passionate competitive programmer focused on building scalable, useful we
 
 ---
 
+### 🏆 Achievements
+- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈 — Developed an IoT-based tremor monitoring system using ESP32 and MPU6050 sensors to provide real-time healthcare alerts for Parkinson's patients.
+
+---
+
+### 🚀 Projects
+
+<!-- Add your strongest 2-4 projects here. This is the single biggest upgrade you can make —
+     recruiters look for proof of work, not just stats. Use this format for each one: -->
+
+**[Tremor Monitoring System](#)** — IoT-based real-time health alert system for Parkinson's patients
+🥈 Runner-up @ Magnate '26 Ideathon (PICT EDC)
+`ESP32` `MPU6050` `C++` `IoT`
+> Built a wearable sensor system that detects tremor patterns and triggers real-time alerts, aimed at assisting caregivers and patients in monitoring Parkinson's symptoms remotely.
+
+<!--
+**[Project Name](your-repo-link)** — One-line description of what it does
+`Tech` `Stack` `Tags`
+> 2-3 sentences: what problem it solves, what you built, and any measurable outcome (users, performance, scale).
+-->
+
+---
+
 ### 📊 GitHub Intelligence
-Tracking my consistency and growth across repositories.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_programmer13?theme=dark&font=baloo&ext=heatmap" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manasi-creator&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manasi-creator/Manasi-creator/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Manasi-creator/Manasi-creator/output/github-snake.svg" width="100%" />
+</picture>
 
 <table border="0">
   <tr>
@@ -39,35 +79,20 @@ Tracking my consistency and growth across repositories.
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frontend & Mobile** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Tools** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🏆 Achievements
-- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈 - Developed an IoT-based tremor monitoring system using ESP32 and MPU6050 sensors to provide real-time healthcare alerts for Parkinson’s patients.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart,react,tailwind,flutter,html,css,nodejs,mongodb,supabase,firebase,git,github,vscode,postman&theme=dark" />
+</p>
 
 ---
 
 ### 📫 Connect with me:
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasidrane/)
 [![GitHub Follow](https://img.shields.io/badge/Follow-Manasi--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasi-creator)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_programmer13/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
