@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manasi-creator&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Manasi-creator&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
 </p>
 
 <picture>
@@ -79,9 +79,17 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart,react,tailwind,flutter,html,css,nodejs,mongodb,supabase,firebase,git,github,vscode,postman&theme=dark" />
-</p>
+| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| C | C++ | Python | JavaScript | Dart | React |
+
+| <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=flutter" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Tailwind | Flutter | HTML5 | CSS3 | Node.js | MongoDB |
+
+| <img src="https://skillicons.dev/icons?i=supabase" width="40"/> | <img src="https://skillicons.dev/icons?i=firebase" width="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=postman" width="40"/> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Supabase | Firebase | Git | GitHub | VS Code | Postman |
 
 ---
 
