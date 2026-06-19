@@ -47,10 +47,6 @@
   <img src="https://leetcard.jacoblin.cool/_programmer13?theme=dark&font=baloo&ext=heatmap" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Manasi-creator&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manasi-creator/Manasi-creator/output/github-snake-dark.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Manasi-creator/Manasi-creator/output/github-snake.svg" width="100%" />
