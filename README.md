@@ -73,29 +73,6 @@
 
 ---
 
-### 💡 LeetCode Stats
-
-<table border="0">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=_programmer13&theme=dark" width="100%"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=_programmer13&theme=dark&type=ranking" width="100%"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=_programmer13&theme=dark&type=contest" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Questions Solved</strong></td>
-    <td align="center"><strong>Current Rank</strong></td>
-    <td align="center"><strong>Contest Rating</strong></td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 | <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=javascript" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> |
