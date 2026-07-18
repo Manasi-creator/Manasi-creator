@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20Competing%20%7C%20Learning&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20Learning%20%7C%20Growing&descSize=20&descAlignY=62"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Manasi!+%F0%9F%91%8B;SY+B.Tech+CSE+%40+VIT+Pune;Competitive+Programmer+%7C+Full+Stack+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Manasi!+%F0%9F%91%8B;SY+B.Tech+CSE+%40+VIT+Pu[...]
 
 <img src="https://komarev.com/ghpvc/?username=Manasi-creator&color=blueviolet&style=flat" alt="Profile views"/>
 
@@ -19,7 +19,7 @@
 ---
 
 ### 🏆 Achievements
-- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈 — Developed an IoT-based tremor monitoring system using ESP32 and MPU6050 sensors to provide real-time healthcare alerts for Parkinson's patients.
+- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈 — Developed an IoT-based tremor monitoring system using ESP32 and MPU6050 sensors to provide real-time healthcare alerts for Pa[...]
 
 ---
 
@@ -73,9 +73,32 @@
 
 ---
 
+### 💡 LeetCode Stats
+
+<table border="0">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://leetcode-stats-six.vercel.app/api?username=_programmer13&theme=dark" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://leetcode-stats-six.vercel.app/api?username=_programmer13&theme=dark&type=ranking" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://leetcode-stats-six.vercel.app/api?username=_programmer13&theme=dark&type=contest" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Questions Solved</strong></td>
+    <td align="center"><strong>Current Rank</strong></td>
+    <td align="center"><strong>Contest Rating</strong></td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
-| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=javascript" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | C | C++ | Python | JavaScript | Dart | React |
 
