@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20Learning%20%7C%20Growing&descSize=20&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20Competing%20%7C%20Learning&descAlignY=65&descSize=18" width="100%"/>
 
 <div align="center">
 
