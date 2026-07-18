@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Manasi!+%F0%9F%91%8B;SY+B.Tech+CSE+%40+VIT+Pu[...]
-
 <img src="https://komarev.com/ghpvc/?username=Manasi-creator&color=blueviolet&style=flat" alt="Profile views"/>
 
 </div>
