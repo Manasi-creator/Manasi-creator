@@ -9,8 +9,8 @@
 ---
 
 ### 📖 About Me
-- 🎓 **Education:** Second Year B.Tech in Computer Science at **Vishwakarma Institute of Technology, Pune**.
-- 🛡️ **Leadership:** Serving as the **Secretary** for the **VishwaShauryam Club** (Official Defence Club of VIT Pune).
+- 🎓 **Education:** Third Year B.Tech in Computer Science at **Vishwakarma Institute of Technology, Pune**.
+- 🛡️ **Leadership:** Serving as the **Treasurer** for the **VishwaShauryam Club** (Official Defence Club of VIT Pune).
 - 💻 **Focus:** Currently deep-diving into **Artificial Intelligence** and advanced **Graph Algorithms** in C++.
 - 🎨 **Creative:** Experienced in Video Editing and Videography for college-level flagship events.
 
