@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20Competing%20%7C%20Learning&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20AI%20%26%20Full-Stack%20Solutions" width="100%"/>
 
 <div align="center">
 
@@ -11,31 +11,42 @@
 ### 📖 About Me
 - 🎓 **Education:** Third Year B.Tech in Computer Science at **Vishwakarma Institute of Technology, Pune**.
 - 🛡️ **Leadership:** Serving as the **Treasurer** for the **VishwaShauryam Club** (Official Defence Club of VIT Pune).
-- 💻 **Focus:** Currently deep-diving into **Artificial Intelligence** and advanced **Graph Algorithms** in C++.
+- 💻 **Focus:** Currently deep-diving into **Artificial Intelligence**, **healthcare AI applications**, and advanced **Graph Algorithms** in C++.
+- 🎯 **Career Interest:** Actively exploring **software engineering** and **AI/ML internship opportunities** while building practical, real-world projects.
 - 🎨 **Creative:** Experienced in Video Editing and Videography for college-level flagship events.
 
 ---
 
 ### 🏆 Achievements
-- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈 — Developed an IoT-based tremor monitoring system using ESP32 and MPU6050 sensors to provide real-time healthcare alerts for Pa[...]
+- **Runner-up:** Magnate '26 Ideathon (Organized by PICT EDC) 🥈 — Developed an IoT-based tremor monitoring system using ESP32 and MPU6050 sensors to provide real-time healthcare alerts for Parkinson's patients.
 
 ---
 
 ### 🚀 Projects
 
-<!-- Add your strongest 2-4 projects here. This is the single biggest upgrade you can make —
-     recruiters look for proof of work, not just stats. Use this format for each one: -->
+**[Drishti](https://github.com/Manasi-creator/Drishti)** — Explainable AI for diabetic retinopathy screening
+`Python` `PyTorch` `OpenCV` `FastAPI` `SQLite`
+> A full-stack explainable AI system that screens fundus images for diabetic retinopathy, grades severity, and shows a Grad-CAM heatmap highlighting the regions the model focused on. Built with a clinical decision-support mindset for early screening and detection.
 
-**[Tremor Monitoring System](#)** — IoT-based real-time health alert system for Parkinson's patients
-🥈 Runner-up @ Magnate '26 Ideathon (PICT EDC)
-`ESP32` `MPU6050` `C++` `IoT`
-> Built a wearable sensor system that detects tremor patterns and triggers real-time alerts, aimed at assisting caregivers and patients in monitoring Parkinson's symptoms remotely.
+**[VoyageEdu](https://github.com/Manasi-creator/VoyageEdu)** — Campus discovery and institution comparison platform
+`React` `Node.js` `MongoDB` `JWT` `Tailwind CSS`
+> An interactive platform helping students and parents explore Indian educational institutions, compare campuses, and access verified institution information with a map-based interface and filtering system.
 
-<!--
-**[Project Name](your-repo-link)** — One-line description of what it does
-`Tech` `Stack` `Tags`
-> 2-3 sentences: what problem it solves, what you built, and any measurable outcome (users, performance, scale).
--->
+**[Suraksha-Setu](https://github.com/Manasi-creator/Suraksha-Setu)** — AI-assisted medicine interaction analysis for healthcare safety
+`React` `TypeScript` `Node.js` `MongoDB` `Gemini` `Tailwind CSS`
+> A healthcare web application for analyzing interactions between modern diabetes medicines and Ayurvedic formulations, featuring patient/doctor flows, dashboards, and AI-powered safety analysis.
+
+**[Farmer-Portal](https://github.com/Manasi-creator/Farmer-Portal)** — Government-style agricultural services platform
+`React` `Node.js` `Express.js` `SQLite` `Prisma` `JWT`
+> A full-stack portal that simulates agricultural subsidy and insurance management, combining role-based workflows with data structures to model real-world government service operations.
+
+**[WebScribe](https://github.com/Manasi-creator/WebScribe)** — Persistent web highlighting and knowledge capture extension
+`WXT` `React` `TypeScript` `IndexedDB`
+> A local-first Chrome extension for highlighting text on the web, attaching notes, organizing saved knowledge, and restoring context across page refreshes without relying on a remote backend.
+
+**[Auto-Form-Filler](https://github.com/Manasi-creator/Auto-Form-Filler)** — Local-first form automation with OCR and encrypted profile storage
+`WXT` `React` `TypeScript` `Tesseract.js` `Chrome Storage`
+> A privacy-first browser extension that scans form fields, matches them using a rule engine and fuzzy matching, and fills them through secure local storage and document extraction workflows.
 
 ---
 
@@ -73,17 +84,19 @@
 
 ### 🛠️ Tech Stack & Skills
 
-| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=javascript" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=javascript" width="40"/> | <img src="https://skillicons.dev/icons?i=typescript" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| C | C++ | Python | JavaScript | Dart | React |
+| C | C++ | Python | JavaScript | TypeScript | React |
 
-| <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=flutter" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=flutter" width="40"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Tailwind | Flutter | HTML5 | CSS3 | Node.js | MongoDB |
+| Node.js | MongoDB | Tailwind CSS | HTML5 | CSS3 | Flutter |
 
-| <img src="https://skillicons.dev/icons?i=supabase" width="40"/> | <img src="https://skillicons.dev/icons?i=firebase" width="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=postman" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=firebase" width="40"/> | <img src="https://skillicons.dev/icons?i=supabase" width="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=postman" width="40"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Supabase | Firebase | Git | GitHub | VS Code | Postman |
+| Firebase | Supabase | Git | GitHub | VS Code | Postman |
+
+**Additional tools and technologies used across projects:** `Dart` `FastAPI` `OpenCV` `SQLite` `Prisma` `WXT` `Tesseract.js` `JWT` `Express.js` `Gemini` `Python` `C++`
 
 ---
 
