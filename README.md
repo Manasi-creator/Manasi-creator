@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20%7C%20AI%20%26%20Full-Stack%20Solutions" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manasi%20Rane&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20AI%20and%20Full-Stack%20Solutions&descAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -32,21 +32,9 @@
 `React` `Node.js` `MongoDB` `JWT` `Tailwind CSS`
 > An interactive platform helping students and parents explore Indian educational institutions, compare campuses, and access verified institution information with a map-based interface and filtering system.
 
-**[Suraksha-Setu](https://github.com/Manasi-creator/Suraksha-Setu)** — AI-assisted medicine interaction analysis for healthcare safety
-`React` `TypeScript` `Node.js` `MongoDB` `Gemini` `Tailwind CSS`
-> A healthcare web application for analyzing interactions between modern diabetes medicines and Ayurvedic formulations, featuring patient/doctor flows, dashboards, and AI-powered safety analysis.
-
-**[Farmer-Portal](https://github.com/Manasi-creator/Farmer-Portal)** — Government-style agricultural services platform
-`React` `Node.js` `Express.js` `SQLite` `Prisma` `JWT`
-> A full-stack portal that simulates agricultural subsidy and insurance management, combining role-based workflows with data structures to model real-world government service operations.
-
 **[WebScribe](https://github.com/Manasi-creator/WebScribe)** — Persistent web highlighting and knowledge capture extension
 `WXT` `React` `TypeScript` `IndexedDB`
 > A local-first Chrome extension for highlighting text on the web, attaching notes, organizing saved knowledge, and restoring context across page refreshes without relying on a remote backend.
-
-**[Auto-Form-Filler](https://github.com/Manasi-creator/Auto-Form-Filler)** — Local-first form automation with OCR and encrypted profile storage
-`WXT` `React` `TypeScript` `Tesseract.js` `Chrome Storage`
-> A privacy-first browser extension that scans form fields, matches them using a rule engine and fuzzy matching, and fills them through secure local storage and document extraction workflows.
 
 ---
 
